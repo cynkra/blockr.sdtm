@@ -16,3 +16,7 @@ Imports:
     blockr.core,
     pharmaversesdtm,
     shiny
+Suggests:
+    testthat (>= 3.0.0),
+    utils
+Config/testthat/edition: 3
